@@ -1,0 +1,979 @@
+{
+    "id": 47506,
+    "display_name": "BEL - HROV - Stal Bocage 1820 (Dentergem) - CDRV 2704",
+    "identifier": "1f21591383641bd45acc909f0f20fe6e",
+    "name": "BEL - HROV - Stal Bocage 1820 (Dentergem) - CDRV 2704",
+    "start_on": "2022-05-08",
+    "end_on": "2022-05-08",
+    "description": "",
+    "organizer_id": 3523,
+    "featured": null,
+    "equipe_id": 45003,
+    "tdb_id": "2022-CD-RV-2704",
+    "highest_status_idx": 2,
+    "discipline": "dressage",
+    "disciplines": [
+        "dressage"
+    ],
+    "statuses": [
+        "regional"
+    ],
+    "horse_ponies": [
+        "pony",
+        "horse"
+    ],
+    "team": false,
+    "logo_id": "1101",
+    "logo_group": "kbrsf",
+    "venue_country": "BEL",
+    "push_accepted_at": null,
+    "created_at": "2022-05-04T21:56:05+02:00",
+    "updated_at": "2022-05-08T16:36:26+02:00",
+    "links": [],
+    "organizer_url": null,
+    "footer_image_url": null,
+    "hide_header_text": false,
+    "arenas": {},
+    "days": [
+        {
+            "date": "2022-05-08",
+            "wday": 0,
+            "past": false,
+            "week": 18,
+            "meeting_classes": [
+                {
+                    "id": 582168,
+                    "name": "Initiatieproef 1 – (I.1) – 20m*40m",
+                    "start_at": "2022-05-08T08:00:00+02:00",
+                    "display_time": "08:00",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "pony"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162719,
+                    "arena": "1",
+                    "position": 1,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T08:32:23+02:00",
+                    "class_no": "2",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678632,
+                            "meeting_class_id": 582168,
+                            "total": 2,
+                            "remains": 0,
+                            "placed": 1,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 360,
+                            "finish_at": "2022-05-08T08:12:00+02:00",
+                            "publish_channel": "2704065e4a8dcd5d8ed374c0b36fbfe0",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T08:32:23+02:00",
+                            "updated_at": "2022-05-08T08:49:22+02:00",
+                            "categories": [
+                                "D"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Bart De Greve",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582169,
+                    "name": "Initiatieproef 1 – (I.1) – 20m*40m",
+                    "start_at": "2022-05-08T08:12:00+02:00",
+                    "display_time": "08:12",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162720,
+                    "arena": "1",
+                    "position": 2,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T09:14:30+02:00",
+                    "class_no": "3",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678633,
+                            "meeting_class_id": 582169,
+                            "total": 8,
+                            "remains": 0,
+                            "placed": 2,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 360,
+                            "finish_at": "2022-05-08T09:00:00+02:00",
+                            "publish_channel": "9f3f0c4ba7e733bada03da2d3de4e4df",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T09:14:30+02:00",
+                            "updated_at": "2022-05-08T09:29:33+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Bart De Greve",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582170,
+                    "name": "Initiatieproef 3 – (I.3) – 20m*40m",
+                    "start_at": "2022-05-08T09:00:00+02:00",
+                    "display_time": "09:00",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "pony"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162721,
+                    "arena": "1",
+                    "position": 3,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T10:09:47+02:00",
+                    "class_no": "5",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678634,
+                            "meeting_class_id": 582170,
+                            "total": 7,
+                            "remains": 0,
+                            "placed": 2,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 360,
+                            "finish_at": "2022-05-08T09:48:00+02:00",
+                            "publish_channel": "2d4a4a1342b0e5fd30858edbff54c768",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T10:09:47+02:00",
+                            "updated_at": "2022-05-08T10:19:26+02:00",
+                            "categories": [
+                                "D"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Bart De Greve",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582171,
+                    "name": "Initiatieproef 3 – (I.3) – 20m*40m",
+                    "start_at": "2022-05-08T10:00:00+02:00",
+                    "display_time": "10:00",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162722,
+                    "arena": "1",
+                    "position": 4,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T11:45:17+02:00",
+                    "class_no": "6",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678635,
+                            "meeting_class_id": 582171,
+                            "total": 11,
+                            "remains": 0,
+                            "placed": 3,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 360,
+                            "finish_at": "2022-05-08T11:24:00+02:00",
+                            "publish_channel": "58dda7e4a8727c88f6ed8f9c1e703953",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T11:45:17+02:00",
+                            "updated_at": "2022-05-08T11:52:59+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Bart De Greve",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582172,
+                    "name": "Niveau 1 – proef 2 (N1.2) – 20m*40m",
+                    "start_at": "2022-05-08T11:24:00+02:00",
+                    "display_time": "11:24",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "pony"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162723,
+                    "arena": "1",
+                    "position": 5,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T11:55:15+02:00",
+                    "class_no": "7",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678636,
+                            "meeting_class_id": 582172,
+                            "total": 3,
+                            "remains": 0,
+                            "placed": 1,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 360,
+                            "finish_at": "2022-05-08T11:48:00+02:00",
+                            "publish_channel": "18ea69391bd4282266d282b50463a50a",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T11:55:15+02:00",
+                            "updated_at": "2022-05-08T12:10:02+02:00",
+                            "categories": [
+                                "D"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Bart De Greve",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582173,
+                    "name": "Niveau 1 – proef 2 (N1.2) – 20m*40m",
+                    "start_at": "2022-05-08T11:48:00+02:00",
+                    "display_time": "11:48",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162724,
+                    "arena": "1",
+                    "position": 6,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T13:06:27+02:00",
+                    "class_no": "8",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678637,
+                            "meeting_class_id": 582173,
+                            "total": 10,
+                            "remains": 0,
+                            "placed": 3,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 360,
+                            "finish_at": "2022-05-08T13:00:00+02:00",
+                            "publish_channel": "597cd2aaabd7b2199a2ebe999238de3a",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T13:06:27+02:00",
+                            "updated_at": "2022-05-08T13:19:37+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Ria Verminck",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582174,
+                    "name": "Niveau 2 – proef 2 (N2.2) – 20m*60m",
+                    "start_at": "2022-05-08T13:30:00+02:00",
+                    "display_time": "13:30",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "pony"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162725,
+                    "arena": "1",
+                    "position": 7,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T14:20:13+02:00",
+                    "class_no": "9",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678638,
+                            "meeting_class_id": 582174,
+                            "total": 1,
+                            "remains": 0,
+                            "placed": 1,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 420,
+                            "finish_at": "2022-05-08T13:37:00+02:00",
+                            "publish_channel": "0d7933f3e31a280cc0a704693a7e02ac",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T14:20:13+02:00",
+                            "updated_at": "2022-05-08T14:33:36+02:00",
+                            "categories": [
+                                "D"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Ria Verminck",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582175,
+                    "name": "Niveau 2 – proef 2 (N2.2) – 20m*60m",
+                    "start_at": "2022-05-08T13:37:00+02:00",
+                    "display_time": "13:37",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162726,
+                    "arena": "1",
+                    "position": 8,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T15:01:46+02:00",
+                    "class_no": "10",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678639,
+                            "meeting_class_id": 582175,
+                            "total": 10,
+                            "remains": 0,
+                            "placed": 3,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 420,
+                            "finish_at": "2022-05-08T14:47:00+02:00",
+                            "publish_channel": "49bdf96aa1f2dd0f1a40bcd101ff0a53",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T15:01:46+02:00",
+                            "updated_at": "2022-05-08T15:19:56+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Ria Verminck",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582176,
+                    "name": "Niveau 3 Pony’s – Proef 2 (N3P.2) – 20m*60m",
+                    "start_at": "2022-05-08T14:47:00+02:00",
+                    "display_time": "14:47",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "pony"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162727,
+                    "arena": "1",
+                    "position": 9,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T15:17:30+02:00",
+                    "class_no": "11",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678640,
+                            "meeting_class_id": 582176,
+                            "total": 2,
+                            "remains": 0,
+                            "placed": 1,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 420,
+                            "finish_at": "2022-05-08T15:01:00+02:00",
+                            "publish_channel": "932870440100cef4faffa96fb0370bd9",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T15:17:30+02:00",
+                            "updated_at": "2022-05-08T15:29:39+02:00",
+                            "categories": [
+                                "D"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Steven Cools",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582177,
+                    "name": "Niveau 3 – Proef 2 (N3.2) - 20m*60m",
+                    "start_at": "2022-05-08T15:01:00+02:00",
+                    "display_time": "15:01",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162728,
+                    "arena": "1",
+                    "position": 10,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-08T16:36:26+02:00",
+                    "class_no": "12",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678641,
+                            "meeting_class_id": 582177,
+                            "total": 7,
+                            "remains": 0,
+                            "placed": 2,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 420,
+                            "finish_at": "2022-05-08T16:12:00+02:00",
+                            "publish_channel": "92c2fc99180e6720c7ea4604ae884d07",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-08T16:36:26+02:00",
+                            "updated_at": "2022-05-08T16:36:26+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Steven Cools",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582178,
+                    "name": "Niveau 4 – proef 2 amateur (N4.2A) – 20m*60m",
+                    "start_at": "2022-05-08T16:42:00+02:00",
+                    "display_time": "16:42",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162729,
+                    "arena": "1",
+                    "position": 11,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-07T11:54:14+02:00",
+                    "class_no": "13",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678642,
+                            "meeting_class_id": 582178,
+                            "total": 2,
+                            "remains": 2,
+                            "placed": 1,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "starts",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 420,
+                            "finish_at": "2022-05-08T16:56:00+02:00",
+                            "publish_channel": "a8e327739f1dcbb8ce7e99ca9270a09e",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-07T11:54:14+02:00",
+                            "updated_at": "2022-05-07T11:54:14+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": [
+                                {
+                                    "official_type": "dressage_judge",
+                                    "official_name": "Steven Cools",
+                                    "official_country": "BEL",
+                                    "judge_by": "C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 582179,
+                    "name": "JONGE PAARDEN: 4 JARIGEN – 20m*60m",
+                    "start_at": "2022-05-08T16:56:00+02:00",
+                    "display_time": "16:56",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162730,
+                    "arena": "1",
+                    "position": 12,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-07T11:54:14+02:00",
+                    "class_no": "14",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        },
+                        {
+                            "official_type": "dressage_judge",
+                            "official_name": "Steven Cools",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678643,
+                            "meeting_class_id": 582179,
+                            "total": 5,
+                            "remains": 5,
+                            "placed": 2,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "starts",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 480,
+                            "finish_at": "2022-05-08T17:36:00+02:00",
+                            "publish_channel": "38dcb278b22bc78ea0a6563c3e807649",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-07T11:54:14+02:00",
+                            "updated_at": "2022-05-07T11:54:14+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 582180,
+                    "name": "JONGE PAARDEN: 5 JARIGEN – 20m*60m",
+                    "start_at": "2022-05-08T16:26:00+02:00",
+                    "display_time": "16:26",
+                    "description": null,
+                    "discipline": "dressage",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": 162731,
+                    "arena": "1",
+                    "position": 13,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-07T11:54:14+02:00",
+                    "class_no": "15",
+                    "officials": [
+                        {
+                            "official_type": "chief_steward",
+                            "official_name": "Patrick Verschueren",
+                            "official_country": "BEL"
+                        },
+                        {
+                            "official_type": "dressage_judge",
+                            "official_name": "Steven Cools",
+                            "official_country": "BEL"
+                        }
+                    ],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": [
+                        {
+                            "id": 678644,
+                            "meeting_class_id": 582180,
+                            "total": 2,
+                            "remains": 2,
+                            "placed": 1,
+                            "placed_word": "placed",
+                            "placed_word_key": "placed",
+                            "state": "starts",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 480,
+                            "finish_at": "2022-05-08T16:42:00+02:00",
+                            "publish_channel": "3df0766a8bfac8bb1365800b26bb9366",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-07T11:54:14+02:00",
+                            "updated_at": "2022-05-07T11:54:14+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

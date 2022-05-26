@@ -1,0 +1,901 @@
+{
+    "id": 47228,
+    "display_name": "BEL - HROV - Stal Bocage (Dentergem) - CSRV2008",
+    "identifier": "b19e1ba2a5c3cc2ca639002f8b32e6e9",
+    "name": "BEL - HROV - Stal Bocage (Dentergem) - CSRV2008",
+    "start_on": "2022-05-01",
+    "end_on": "2022-05-01",
+    "description": "",
+    "organizer_id": 3512,
+    "featured": null,
+    "equipe_id": 44622,
+    "tdb_id": "2022-CS-RV-2008",
+    "highest_status_idx": 2,
+    "discipline": "show_jumping",
+    "disciplines": [
+        "show_jumping",
+        "score_summary"
+    ],
+    "statuses": [
+        "regional"
+    ],
+    "horse_ponies": [
+        "pony",
+        "horse"
+    ],
+    "team": false,
+    "logo_id": "1001",
+    "logo_group": "kbrsf",
+    "venue_country": "BEL",
+    "push_accepted_at": null,
+    "created_at": "2022-04-26T12:46:43+02:00",
+    "updated_at": "2022-05-06T17:18:00+02:00",
+    "links": [],
+    "organizer_url": "https://www.hrov.be/",
+    "footer_image_url": "https://equipe-online.s3.amazonaws.com/footer/b19e1ba2a5c3cc2ca639002f8b32e6e9.png?1650975207",
+    "hide_header_text": false,
+    "arenas": {},
+    "days": [
+        {
+            "date": "2022-05-01",
+            "wday": 0,
+            "past": true,
+            "week": 17,
+            "meeting_classes": [
+                {
+                    "id": 578997,
+                    "name": "INSCHRIJVINGEN TER PLAATSE TOEGELATEN",
+                    "start_at": "2022-05-01T00:00:00+02:00",
+                    "display_time": null,
+                    "description": null,
+                    "discipline": "list",
+                    "horse_ponies": [],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 0,
+                    "divider": false,
+                    "hide_class_no": true,
+                    "updated_at": "2022-04-29T23:29:25+02:00",
+                    "class_no": null,
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [],
+                    "class_sections": []
+                },
+                {
+                    "id": 577957,
+                    "name": "Pony - Springeding (kruisjes en balkjes)",
+                    "start_at": "2022-05-01T09:00:00+02:00",
+                    "display_time": "09:00",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 1,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T09:07:13+02:00",
+                    "class_no": "1",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229063,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229063/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675315,
+                            "meeting_class_id": 577957,
+                            "total": 2,
+                            "remains": 0,
+                            "placed": 1,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 146,
+                            "finish_at": "2022-05-01T09:07:00+02:00",
+                            "publish_channel": "0863154dfd201f45862876b67c655caa",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T09:07:13+02:00",
+                            "updated_at": "2022-05-01T09:29:25+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577958,
+                    "name": "Pony 60cm - LJ Leathers - (Bar A Clear Round)",
+                    "start_at": "2022-05-01T09:10:00+02:00",
+                    "display_time": "09:10",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "pony",
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 2,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T09:23:48+02:00",
+                    "class_no": "2",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229064,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229064/original.pdf"
+                        },
+                        {
+                            "id": 229067,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229067/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675316,
+                            "meeting_class_id": 577958,
+                            "total": 6,
+                            "remains": 0,
+                            "placed": 2,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 130,
+                            "finish_at": "2022-05-01T09:23:00+02:00",
+                            "publish_channel": "42eff954c1355efa01f01ccb4c7a345a",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T09:23:48+02:00",
+                            "updated_at": "2022-05-01T09:39:34+02:00",
+                            "categories": [
+                                "D",
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577959,
+                    "name": "Pony 70cm - LJ Leathers - (Bar A ideale tijd)",
+                    "start_at": "2022-05-01T09:30:00+02:00",
+                    "display_time": "09:30",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "pony",
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 3,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T10:43:29+02:00",
+                    "class_no": "3",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229071,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229071/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675317,
+                            "meeting_class_id": 577959,
+                            "total": 23,
+                            "remains": 0,
+                            "placed": 6,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 108,
+                            "finish_at": "2022-05-01T10:19:00+02:00",
+                            "publish_channel": "a6a42919ad8ff787392576338e0b8b7d",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T10:43:28+02:00",
+                            "updated_at": "2022-05-01T10:43:29+02:00",
+                            "categories": [
+                                "D",
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577960,
+                    "name": "Pony 80cm - LJ Leathers - (Bar A 2 fasen)",
+                    "start_at": "2022-05-01T10:30:00+02:00",
+                    "display_time": "10:30",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "pony",
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 4,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T11:22:06+02:00",
+                    "class_no": "4",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229105,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229105/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675318,
+                            "meeting_class_id": 577960,
+                            "total": 20,
+                            "remains": 0,
+                            "placed": 5,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 113,
+                            "finish_at": "2022-05-01T11:18:00+02:00",
+                            "publish_channel": "a1b8aed4f584b1304345f61cf4fa29e3",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T11:22:04+02:00",
+                            "updated_at": "2022-05-01T11:39:46+02:00",
+                            "categories": [
+                                "D",
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577961,
+                    "name": "Pony 90cm - LJ Leathers - (Bar A 2 fasen)",
+                    "start_at": "2022-05-01T11:20:00+02:00",
+                    "display_time": "11:20",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "pony",
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 5,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T12:05:54+02:00",
+                    "class_no": "5",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229161,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229161/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 676822,
+                            "meeting_class_id": 577961,
+                            "total": 13,
+                            "remains": 0,
+                            "placed": 4,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 108,
+                            "finish_at": "2022-05-01T12:03:00+02:00",
+                            "publish_channel": "56422992321954052eb392b4ca8c4a78",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T12:05:53+02:00",
+                            "updated_at": "2022-05-01T12:20:49+02:00",
+                            "categories": [
+                                "D",
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577962,
+                    "name": "Pony 1m00 - LJ Leathers - (Bar A 2 fasen)",
+                    "start_at": "2022-05-01T12:00:00+02:00",
+                    "display_time": "12:00",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "pony",
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 6,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T12:31:02+02:00",
+                    "class_no": "6",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229175,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229175/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 676828,
+                            "meeting_class_id": 577962,
+                            "total": 6,
+                            "remains": 0,
+                            "placed": 2,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 147,
+                            "finish_at": "2022-05-01T12:30:00+02:00",
+                            "publish_channel": "565afaa629f3db08428a73996a6e438e",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T12:31:02+02:00",
+                            "updated_at": "2022-05-01T12:50:02+02:00",
+                            "categories": [
+                                "D",
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577963,
+                    "name": "Paarden 70cm - (Bar A Clear Round)",
+                    "start_at": "2022-05-01T12:50:00+02:00",
+                    "display_time": "12:50",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 7,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T13:16:06+02:00",
+                    "class_no": "7",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229192,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229192/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675321,
+                            "meeting_class_id": 577963,
+                            "total": 6,
+                            "remains": 0,
+                            "placed": 2,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 100,
+                            "finish_at": "2022-05-01T13:16:00+02:00",
+                            "publish_channel": "2c7ea75d1baac049b46f30c8b3f1c03a",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T13:16:06+02:00",
+                            "updated_at": "2022-05-01T13:40:33+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577964,
+                    "name": "Paarden 80cm - Trofee Roger Joos by Horse2Me - (Bar A ideale tijd)",
+                    "start_at": "2022-05-01T13:10:00+02:00",
+                    "display_time": "13:10",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 8,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T14:24:32+02:00",
+                    "class_no": "8",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229195,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229195/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675322,
+                            "meeting_class_id": 577964,
+                            "total": 23,
+                            "remains": 0,
+                            "placed": 6,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 107,
+                            "finish_at": "2022-05-01T14:09:00+02:00",
+                            "publish_channel": "2f0a62c470622839bd31d976169a7454",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T14:24:30+02:00",
+                            "updated_at": "2022-05-01T14:30:10+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577965,
+                    "name": "Paarden 90cm - Trofee Roger Joos by Kerckhaert - (Bar A 2 fasen)",
+                    "start_at": "2022-05-01T14:10:00+02:00",
+                    "display_time": "14:10",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 9,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T16:12:14+02:00",
+                    "class_no": "9",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229225,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229225/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675323,
+                            "meeting_class_id": 577965,
+                            "total": 38,
+                            "remains": 0,
+                            "placed": 10,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 109,
+                            "finish_at": "2022-05-01T15:45:00+02:00",
+                            "publish_channel": "8dae2c6857c022549d3c808760a1b77d",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T16:12:12+02:00",
+                            "updated_at": "2022-05-01T16:12:14+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577966,
+                    "name": "Paarden 1m00 - Trofee Roger Joos by EquiBeNe.com - (Bar A 2 fasen)",
+                    "start_at": "2022-05-01T16:10:00+02:00",
+                    "display_time": "16:10",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 10,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T17:50:29+02:00",
+                    "class_no": "10",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229266,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229266/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675324,
+                            "meeting_class_id": 577966,
+                            "total": 49,
+                            "remains": 0,
+                            "placed": 13,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 107,
+                            "finish_at": "2022-05-01T17:39:00+02:00",
+                            "publish_channel": "d95531d719876567cca440fb64c62463",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T17:50:28+02:00",
+                            "updated_at": "2022-05-01T17:59:21+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577967,
+                    "name": "1m10 - EquiProCare - (Bar A 2 fasen)",
+                    "start_at": "2022-05-01T17:55:00+02:00",
+                    "display_time": "17:55",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 11,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T19:22:00+02:00",
+                    "class_no": "11",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229273,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229273/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675325,
+                            "meeting_class_id": 577967,
+                            "total": 42,
+                            "remains": 0,
+                            "placed": 11,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 102,
+                            "finish_at": "2022-05-01T19:19:00+02:00",
+                            "publish_channel": "62d2b491eceb70c56d8a962b98e7d085",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T19:21:58+02:00",
+                            "updated_at": "2022-05-01T19:39:23+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                },
+                {
+                    "id": 577968,
+                    "name": "1m20 - (Bar A 2 fasen)",
+                    "start_at": "2022-05-01T19:30:00+02:00",
+                    "display_time": "19:30",
+                    "description": null,
+                    "discipline": "show_jumping",
+                    "horse_ponies": [
+                        "horse"
+                    ],
+                    "status": "regional",
+                    "team": false,
+                    "score_sheet_id": null,
+                    "arena": "",
+                    "position": 12,
+                    "divider": false,
+                    "hide_class_no": null,
+                    "updated_at": "2022-05-01T20:08:20+02:00",
+                    "class_no": "12",
+                    "officials": [],
+                    "links": [],
+                    "display": {
+                        "flags": true,
+                        "logos": false,
+                        "visible": true,
+                        "lists": true,
+                        "webshop_photos": null,
+                        "combination_no": null,
+                        "start_at": null,
+                        "start_no": null
+                    },
+                    "attachments": [
+                        {
+                            "id": 229296,
+                            "contain": "course_design",
+                            "description": "",
+                            "contain_description": "Parcoursontwerp",
+                            "url": "https://equipe-online.s3.amazonaws.com/assets/229296/original.pdf"
+                        }
+                    ],
+                    "class_sections": [
+                        {
+                            "id": 675326,
+                            "meeting_class_id": 577968,
+                            "total": 12,
+                            "remains": 0,
+                            "placed": 3,
+                            "placed_word": "geplaatst",
+                            "placed_word_key": "placed",
+                            "state": "results",
+                            "section": "",
+                            "team": false,
+                            "sec_per_start": 100,
+                            "finish_at": "2022-05-01T20:06:00+02:00",
+                            "publish_channel": "338c818058551bed5af0a1329b500803",
+                            "previous_start_id": null,
+                            "next_start_id": null,
+                            "current_start_id": null,
+                            "imported_at": "2022-05-01T20:08:20+02:00",
+                            "updated_at": "2022-05-01T20:29:22+02:00",
+                            "categories": [
+                                "H"
+                            ],
+                            "officials": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
