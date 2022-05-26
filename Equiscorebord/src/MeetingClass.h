@@ -2,6 +2,7 @@
 #define MeetingClass_h
 
 #include <Arduino.h>
+#include <Rider.h>
 #include <vector>
 
 class MeetingClass
@@ -13,7 +14,7 @@ public:
     String name;
     String horse_ponies;
     String display_time;
-    // std::vector<Rider> riders;
+    std::vector<Rider> riders;
     
 private:
 };
