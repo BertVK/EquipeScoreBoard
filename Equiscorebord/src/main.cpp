@@ -61,6 +61,7 @@ String CurrentMonth = "";
 String CurrentDay = "";
 
 Meeting SelectedMeeting;
+int selectedMeetingId = 0
 
 int vref = 1100; // default battery vref
 
@@ -417,25 +418,52 @@ void GetRiderData()
   Serial.printf("total: %d\n", total);
 
   setFont(OpenSans18B);
-  drawString(10, 60, "WEDSTRIJDRESULTATEN", LEFT);
-  drawLine(0, 70, 1000, 70, Black);
+  // drawString(10, 60, "WEDSTRIJDRESULTATEN", LEFT);
+  String name = SelectedMeeting.name;
+  name.replace("BEL - ", "");
+  name.replace("HROV - ", "");
+  drawString(10, 60, name, LEFT);
+  setFont(OpenSans12B);
+  drawString(950, 60, SelectedMeeting.date, RIGHT);
+  drawLine(0, 70, 960, 70, Black);
   int x = 10;
   int y = 120;
   setFont(OpenSans12B);
+  MeetingClass thisClass;
+  for (int i = 0; i < SelectedMeeting.classes.size(); i++)
+  {
+    if (SelectedMeeting.classes[i].id == 690661)
+    {
+      thisClass = SelectedMeeting.classes[i];
+    }
+  }
   for (JsonObject start : doc["starts"].as<JsonArray>())
   {
 
-    int start_rank = start["rank"];                  // 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, ...
-    const String start_start_no = start["start_no"]; // "15", "19", "14", "2", "24", "21", "4", "11", "9", ...
-    const String start_start_at = start["start_at"];
-    const String start_rider_name = start["rider_name"]; // "Zoë Vande Walle", "Dirk Saverwyns", "Kyrsten ...
     const String start_horse_name = start["horse_name"]; // "Corianne G Z", "jiliandra", "Pantanera", "Jolie ...
     String lowerHorse = start_horse_name;
     lowerHorse.toLowerCase();
     if (
         lowerHorse.indexOf("hacienda") > 0 || lowerHorse.equals("tizziana"))
     {
+      int start_rank = start["rank"];                  // 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, ...
+      const String start_start_no = start["start_no"]; // "15", "19", "14", "2", "24", "21", "4", "11", "9", ...
+      const String start_start_at = start["start_at"];
+      const String start_rider_name = start["rider_name"]; // "Zoë Vande Walle", "Dirk Saverwyns", "Kyrsten ...
+      const int start_horse_combination_no = start["horse_combination_no"];
       String start_time = start_start_at.substring(11, 16);
+      if (thisClass.id > 0)
+      {
+        Rider rider;
+        rider.rider_name = start_rider_name;
+        rider.horse_name = start_horse_name;
+        rider.horse_combination_no = start_horse_combination_no;
+        rider.rank = start_rank;
+        rider.start_at = start_start_at;
+        rider.start_no = start_start_no;
+        thisClass.riders.push_back(rider);
+      }
+
       Serial.print(start_rank);
       Serial.print(" - ");
       Serial.print(start_start_no);
