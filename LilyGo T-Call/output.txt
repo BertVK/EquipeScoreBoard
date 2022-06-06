@@ -1,0 +1,85 @@
+AT
+
+OK
+AT&W
+
+OK
+AT+CFUN=0
+
++CPIN: NOT READY
+
+OK
+AT+CFUN=1,1
+
+OK
+[10428] ### TinyGSM Version: 0.11.5
+[10428] ### TinyGSM Compiled Module:  TinyGsmClientSIM800
+AT
+��AT
+
+OK
+ATE0
+
+OK
+AT+CMEE=2
+
+OK
+AT+GMM
+
+SIMCOM_SIM800L
+
+OK
+[10747] ### Modem: SIMCOM SIM800L
+[10747] ### Modem: SIMCOM SIM800L
+AT+CLTS=1
+
+OK
+AT+CBATCHK=1
+
+OK
+AT+CPIN?
+
++CME ERROR: CFUN state is 0 or 4
+AT+CPIN?
+
+RDY
+
++CFUN: 1
+
++CME ERROR: SIM busy
+AT+CPIN?
+
++CPIN: READY
+
++CPIN: READY
+
+OK
+AT+GSN
+
+Call Ready
+
+SMS Ready
+
+*PSUTTZ: 2022,6,5,18,26,16,"+4",0
+[22784] ### Network time and time zone updated.
+
+DST: 0
+[22784] ### Daylight savings time state updated.
+
+862749051668845
+
+OK
+[22788] IMEI: Call Ready
+AT+CMGF=1
+
+OK
+AT+CSCS="GSM"
+
+OK
+AT+CMGS="+32478385741"
+
+>Hello from Call Ready␚ 
++CMGS: 4
+
+OK
+[26144] SMS: OK
